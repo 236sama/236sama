@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 - 💡 아이디어를 떠올리고 구현하는 걸 좋아함 / Like to realize my ideas
-- 🎮 게임 개발자 지망 중 / Wanting to be game dev
+- 🎮 게임 개발자 지망 중 / Want to be a game dev
 - 🧪 혼자 이것저것 만들어보는 타입 / I make any stuffs by myself
 - ☢️ MBTI: ENTP
 - 🎂 나이: 17 / 17 years old

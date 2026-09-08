@@ -1,4 +1,4 @@
-## 안녕하세요, 미플친주입니다 / Hi there, I'm PLZUtheKrazy 👋
+## 안녕하세요, 236사마입니다 / Hi there, I'm 236sama 👋
 
 ## 👤 About Me
 - 💡 아이디어를 떠올리고 구현하는 걸 좋아함 / Like to realize my ideas

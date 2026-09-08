@@ -5,7 +5,7 @@
 - 🎮 게임 개발자 지망 중 / Wanting to be game dev
 - 🧪 혼자 이것저것 만들어보는 타입 / I make any stuffs by myself
 - ☢️ MBTI: ENTP
-- 🎂 나이: 16 / 16 years old
+- 🎂 나이: 17 / 17 years old
 - 🤣 짤 좋아함 / Like memes
 
 ## 👾 유니티 프로젝트 / Unity Projects

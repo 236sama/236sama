@@ -4,11 +4,11 @@
 - 💡 아이디어를 떠올리고 구현하는 걸 좋아함 / Like to realize my ideas
 - 🎮 게임 개발자 지망 중 / Want to be a game dev
 - 🧪 혼자 이것저것 만들어보는 타입 / I make any stuffs by myself
-- ☢️ MBTI: ENTP
+- 🤡 MBTI: ENTP
 - 🎂 나이: 17 / 17 years old
 - 🤣 짤 좋아함 / Like memes
 
-## 👾 유니티 프로젝트 / Unity Projects
+## 👾 유니티/렌파이/등등 게임이면 뭐든 프로젝트 / Unity/Ren'Py/Whatever Game Projects
 - 추가 예정 / TBA
 
 ## 🧩 엔트리 작품 / Entry Projects

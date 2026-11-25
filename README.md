@@ -7,6 +7,7 @@
 - 🤡 MBTI: ENTP
 - 🎂 나이: 17 / 17 years old
 - 🤣 짤 좋아함 / Like memes
+- ⚾ SSG 랜더스 팬임 / Fan of SSG Landers
 
 ## 👾 유니티/렌파이/등등 게임이면 뭐든 프로젝트 / Unity/Ren'Py/Whatever Game Projects
 - 추가 예정 / TBA
